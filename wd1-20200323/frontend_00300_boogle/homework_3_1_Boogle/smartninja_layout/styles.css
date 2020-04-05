@@ -1,0 +1,20 @@
+#navigation {
+    height: 100px;
+    width: auto;
+    background-color: red;
+    margin-bottom: 20px;
+}
+
+.main {
+    height: 50px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: red;
+}
+
+div.inline-square {
+    display: inline-block;
+    background-color: green;
+    height: 50px;
+    width: 50px;
+}

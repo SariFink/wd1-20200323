@@ -1,0 +1,13 @@
+        /*
+            Create styles for hovering ver a div with color change
+        */
+
+div {
+    width: 250px;
+    height: 250px;
+    background: red;
+}
+
+div:hover {
+    background: green;
+}
