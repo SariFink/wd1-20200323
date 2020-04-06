@@ -1,1 +1,1 @@
-thoughts about Python 3
+thoughts about Web Development with HTML/CSS, Python 3.7 and Flask
