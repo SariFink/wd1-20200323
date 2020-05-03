@@ -1,4 +1,4 @@
-# variables are used store values
+# variables are used to store values
 
 x = 2
 y = 2.56

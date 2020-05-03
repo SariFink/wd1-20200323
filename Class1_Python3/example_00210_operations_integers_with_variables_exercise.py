@@ -1,8 +1,12 @@
 # Task 1
 
-# define 2 variable and give them the values 2 and 10, then calculate the result of the division 2/10.
+# define 2 variables and give them the values 2 and 10, then calculate the result of the division 2/10.
 # print the result
 # write your code here
+a = 2
+b = 10
+result = a / b
+print(result)
 
 
 
@@ -11,6 +15,10 @@
 # save your first name and last name as string, and concat them to 1 variable,
 # and print the result
 # write your code here
+a = "Sari"
+b = "Fink"
+name = a + " " + b
+print(name)
 
 
 
@@ -18,3 +26,4 @@
 
 # divide a number by 0, what happens?
 # write your code here
+

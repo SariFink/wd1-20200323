@@ -1,6 +1,6 @@
 # print the type of the variable number
 number = 1
-
+print(type(number))
 
 # cast number to a string and print its type
 

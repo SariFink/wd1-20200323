@@ -16,3 +16,9 @@ else: # if none of the previous conditions were true, the "else" clause is execu
     print("I am not waiting")
 
 print("Done")
+
+
+if "Hallo" == "Hello":
+    print("same word")
+else:
+    print("different word")

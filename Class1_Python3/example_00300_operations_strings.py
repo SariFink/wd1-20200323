@@ -13,7 +13,7 @@ print("Greeting: {}, Name: {}".format(greeting, name))
 # new in Python 3:
 print(f"Greeting: {greeting}, Name: {name}")
 
-# CHECKING FOR (UN)EQUALITY
+# CHECKING FOR (IN)EQUALITY
 print(greeting == name)
 print(greeting == "Hello World!")
 
